@@ -1,0 +1,22 @@
+.product-list-container {
+  padding: 20px;
+}
+
+.product-item {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  text-align: start;
+  color: #000;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.product-item h4 {
+  margin-bottom: 5px;
+}
+
+.error-message {
+  color: red;
+  font-weight: bold;
+}
